@@ -1,6 +1,9 @@
 Dancing Script Variable Font
 ============================
 
+HEllo world 
+happy New Year
+
 This download contains Dancing Script as both a variable font and static fonts.
 
 Dancing Script is a variable font with this axis:
